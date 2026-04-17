@@ -1,0 +1,1 @@
+The objective of this project was to implement a functional Layer 3 routing daemon using the Distance-Vector (DV) protocol. The system is designed to run within isolated Docker containers while maintaining the ability to interoperate with external hosts over a physical network.
